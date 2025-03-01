@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World 👋, I'm Ahmed Hamdy</h1>
+<h1 align="center">Hello, World 👋 I'm Ahmed Hamdy</h1>
 <h3 align="center">Passionate Coder & Software Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-200418&label=Views&color=0e75b6&style=flat" alt="Ahmed-200418" /> </p>
 <br>
