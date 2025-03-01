@@ -18,7 +18,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-200418&label=Profile%20views&color=blue&style=flat" alt="Ahmed-200418" /> </p>
 
 
-## 📫 Connect with Me:
+## 📫 Contact with Me:
 
 - [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmed-200418)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]("")
