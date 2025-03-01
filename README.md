@@ -1,5 +1,5 @@
 <h1 align="center">Hello, World 👋, I'm Ahmed Hamdy</h1>
-<h3 align="center">Passionate coder and software developer</h3>
+<h3 align="center">Passionate Coder & Software Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-200418&label=Views&color=0e75b6&style=flat" alt="Ahmed-200418" /> </p>
 <br>
 
@@ -21,6 +21,6 @@
 ## 📫 Connect with Me:
 
 - [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmed-200418)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)])
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]("")
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("")
 
