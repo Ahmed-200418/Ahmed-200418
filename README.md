@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hamdy</h1>
 <h3 align="center">A Software Engineer who is passionate about continuous self-development, learning new technologies, and taking on challenging projects. I enjoy exploring modern tools, improving my skills, and building solutions that make a real impact.</h3>
+<img align="right" alt="Coding" width="400" src="/GIF/code.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
