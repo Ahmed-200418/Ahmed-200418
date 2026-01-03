@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hamdy</h1>
 <h3 align="center">A Software Engineer who is passionate about continuous self-development, learning new technologies, and taking on challenging projects. I enjoy exploring modern tools, improving my skills, and building solutions that make a real impact.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-200418&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-200418" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-hamdy-b3547b367/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-hamdy-b3547b367/" height="30" width="40" /></a>
