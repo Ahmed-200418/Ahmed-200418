@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![snake gif](https://github.com/YOUR_USERNAME/Ahmed-200418/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Ahmed-200418/Ahmed-200418/blob/output/github-snake-dark.svg)
 
 <!--
 **Ahmed-200418/Ahmed-200418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
